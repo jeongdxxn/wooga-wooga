@@ -1,0 +1,22 @@
+.Main-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.Region {
+  font-size: 11vh;
+}
+
+.Condition {
+  font-size: 4vh;
+  padding-top: 1vh;
+  padding-left: 5px;
+}
+
+.Temperature {
+  font-size: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5vh;
+}
