@@ -32,7 +32,7 @@ function App() {
           </header>
           <hr />
           <section>
-             <RegionAndTemp propsData={propsData} />
+            <RegionAndTemp propsData={propsData} />
           </section>
         </div>
       );
